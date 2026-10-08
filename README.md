@@ -13,29 +13,56 @@ With **10+ years of experience**, I work across the complete Android development
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 📱 Android Development
 
-`Kotlin` `Java`
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design"/>
+</p>
 
-**Android**
+### 🏗️ Architecture & Libraries
 
-`Android SDK` `Jetpack Compose` `XML` `Material Design`
+<p>
+  <img src="https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-121212?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Hilt-DI-orange?style=for-the-badge" alt="Hilt"/>
+  <img src="https://img.shields.io/badge/Room-Database-4CAF50?style=for-the-badge" alt="Room"/>
+  <img src="https://img.shields.io/badge/Coroutines-Kotlin-purple?style=for-the-badge" alt="Coroutines"/>
+  <img src="https://img.shields.io/badge/Flow-Kotlin-blue?style=for-the-badge" alt="Flow"/>
+</p>
 
-**Architecture**
+### 🌐 Networking & APIs
 
-`MVVM` `Clean Architecture` `Repository Pattern` `ViewModel`
+<p>
+  <img src="https://img.shields.io/badge/Retrofit-REST%20API-3DDC84?style=for-the-badge" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/OkHttp-Networking-orange?style=for-the-badge" alt="OkHttp"/>
+  <img src="https://img.shields.io/badge/Gson-JSON-4285F4?style=for-the-badge" alt="Gson"/>
+  <img src="https://img.shields.io/badge/REST%20API-Integration-6C63FF?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/WebSocket-Real--Time-black?style=for-the-badge" alt="WebSocket"/>
+</p>
 
-**Libraries & Tools**
+### 🔥 Firebase
 
-`Hilt` `Room` `Retrofit` `OkHttp` `Coroutines` `Flow` `Gson`
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/FCM-Push%20Notifications-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Cloud Messaging"/>
+  <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Crashlytics"/>
+  <img src="https://img.shields.io/badge/Analytics-FFCA28?style=for-the-badge&logo=googleanalytics&logoColor=black" alt="Analytics"/>
+</p>
 
-**Backend & Services**
+### 🛠️ Tools
 
-`REST APIs` `Firebase` `FCM` `Crashlytics` `Analytics` `WebSocket`
-
-**Development Tools**
-
-`Android Studio` `Git` `GitHub` `Gradle` `Postman`
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+</p>
 
 ---
 
