@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Pawan Kumar
 
-### 📱 Android Developer | 10+ Years of Experience
+### 🚀 Senior Android Developer | 10+ Years of Experience
 
-I'm an Android Developer with **10+ years of professional experience** building production-ready Android applications using **Java, Kotlin, Jetpack Compose, XML, REST APIs, Firebase, and modern Android architecture**.
+I build **production-ready Android applications** using **Java, Kotlin, Jetpack Compose, XML, REST APIs, Firebase, and modern Android architecture**.
 
-I enjoy building reliable, scalable, and user-friendly Android applications — from **UI development and API integration to debugging, optimization, and production releases**.
+With **10+ years of experience**, I work across the complete Android development lifecycle — from **UI/UX implementation and API integration to debugging, optimization, maintenance, and production releases**.
+
+**Open to:** Android Development · Freelance Projects · App Modernization · API Integration · Long-Term Maintenance
+
 
 ---
 
