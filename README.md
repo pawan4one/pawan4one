@@ -66,6 +66,37 @@ With **10+ years of experience**, I work across the complete Android development
 
 ---
 
+## 🚀 What I Build
+
+I develop Android applications for startups, businesses, and product teams — from new applications to existing apps that need modernization, maintenance, or performance improvements.
+
+| 📱 Application                | 🔧 Experience                                         |
+| ----------------------------- | ----------------------------------------------------- |
+| 🛒 **E-Commerce Apps**        | Product catalogs, cart, checkout, orders, payments    |
+| 🍔 **Food Delivery Apps**     | Restaurants, menus, cart, orders, delivery workflows  |
+| 🚗 **Ride Booking Apps**      | Location, booking, pricing, trip management           |
+| 🎓 **Education Apps**         | Courses, tests, quizzes, progress tracking            |
+| 🧾 **POS & Kiosk Apps**       | Ordering, payments, counters, kitchen workflows       |
+| 🏢 **Business Apps**          | Dashboards, authentication, reports, management tools |
+| 📦 **Order Management**       | Orders, status tracking, notifications, workflows     |
+| 🔔 **Real-Time Apps**         | WebSockets, live updates, push notifications          |
+| 🔐 **Authentication Systems** | OTP, login, sessions, secure API communication        |
+
+### 💡 I Can Help With
+
+* 🆕 Building a new Android application from scratch
+* 🔄 Modernizing existing Android applications
+* 🐛 Debugging and fixing production issues
+* 🌐 REST API integration
+* 🎨 Converting UI/UX designs into responsive Android interfaces
+* ⚡ Improving application performance
+* 🔥 Firebase and push notification integration
+* 🏗️ Refactoring legacy Android code
+* 📦 Preparing applications for production and Play Store release
+* 🔧 Long-term Android application maintenance
+
+
+
 ## 👨‍💻 About Me
 
 * 📱 10+ years of Android development experience
