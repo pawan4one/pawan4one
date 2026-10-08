@@ -8,7 +8,6 @@ With **10+ years of experience**, I work across the complete Android development
 
 **Open to:** Android Development · Freelance Projects · App Modernization · API Integration · Long-Term Maintenance
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -92,34 +91,35 @@ I develop Android applications for startups, businesses, and product teams — f
 * ⚡ Improving application performance
 * 🔥 Firebase and push notification integration
 * 🏗️ Refactoring legacy Android code
-* 📦 Preparing applications for production and Play Store release
+* 📦 Preparing applications for production and Google Play release
 * 🔧 Long-term Android application maintenance
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 🚗 Draiv — Transportation & Super App
 
-A production Android application for **Draiv**, an online transportation and multi-service platform.
+A production Android application for **Draiv**, a transportation and multi-service platform.
 
 The application provides transportation services along with additional services such as **food ordering, goods delivery, shopping, laundry, digital vouchers, and online donations**.
 
-**My Role:**
+**My Role**
+
 📱 **Android Developer — Independently developed the Android application**
 
-**Key Areas:**
+**Key Areas**
 
 * 🚗 Online transportation services
 * 🍔 Food ordering
 * 📦 Goods delivery
 * 🛍️ Shopping services
 * 🧺 Laundry services
-* 🎟️ Credit and game vouchers
+* 🎟️ Digital vouchers
 * 💰 Online donation services
 * 📱 Production Android application development
 
-**Technology & Expertise:**
+**Technology & Expertise**
 
 `Android` `Java` `Kotlin` `REST APIs` `Firebase` `Google Maps` `MVVM` `Android SDK`
 
@@ -130,25 +130,26 @@ The application provides transportation services along with additional services 
 
 ### 🎓 Practice Dost — Government Exam Preparation
 
-A production Android application designed for **UP and central government competitive exam preparation**, providing previous year question papers, mock tests, subject-wise practice, and an exam-like testing experience.
+A production Android application for **UP and central government competitive exam preparation**, providing previous year question papers, mock tests, subject-wise practice, and an exam-like testing experience.
 
-The application covers exams including **UP Police, UPSSSC PET, UPPCS, UP TET, SSC, RRB, CTET and other competitive examinations**.
+The application supports preparation for examinations including **UP Police, UPSSSC PET, UPPCS, UP TET, SSC, RRB, CTET, and other competitive examinations**.
 
-**My Role:**
+**My Role**
+
 📱 **Android Developer — Independently developed the Android application**
 
-**Key Areas:**
+**Key Areas**
 
 * 📚 Previous Year Question Papers (PYQs)
 * 📝 Mock tests
-* 🎯 Subject & topic-wise practice
-* ⏱️ Exam-like test interface
+* 🎯 Subject and topic-wise practice
+* ⏱️ Exam-like testing experience
 * 📊 Test results and performance
 * 🎓 UP government exam preparation
 * 🇮🇳 Central government exam preparation
 * 🔔 Production app maintenance and improvements
 
-**Technology & Expertise:**
+**Technology & Expertise**
 
 `Android` `Java` `Kotlin` `REST APIs` `Firebase` `MVVM` `Android SDK`
 
@@ -157,53 +158,80 @@ The application covers exams including **UP Police, UPSSSC PET, UPPCS, UP TET, S
 
 ---
 
-## 👨‍💻 About Me
-
-* 📱 10+ years of Android development experience
-* 💻 Strong experience with Java and Kotlin
-* 🎨 Android UI development with Jetpack Compose and XML
-* 🏗️ MVVM and scalable application architecture
-* 🌐 REST API integration using Retrofit and OkHttp
-* 🔥 Firebase and push notification integration
-* 💾 Local data storage with Room
-* ⚡ Application debugging and performance optimization
-* 🔄 Existing application maintenance and modernization
-* 🚀 Production-ready Android application development
-
----
-
 ## 💼 Professional Experience
 
-### 📱 Android Developer — 10+ Years
+### 📱 Android Developer
 
-**2016 – Present**
+**10+ Years of Professional Experience**
 
-Over 10 years of experience developing Android applications across different industries and business requirements.
+I have worked across different Android projects and business domains, taking responsibility for application development from initial implementation through production.
 
 ### 🔹 Core Responsibilities
 
 * Developing Android applications using **Java and Kotlin**
-* Designing responsive and reusable Android UI
+* Building responsive and reusable Android interfaces
 * Implementing **MVVM and maintainable application architecture**
-* Integrating REST APIs using **Retrofit / OkHttp**
+* Integrating REST APIs
 * Implementing authentication, OTP and session management
-* Integrating **Firebase and push notifications**
-* Working with local databases including **Room**
+* Integrating Firebase and push notifications
+* Working with local data storage and databases
 * Debugging and resolving production issues
 * Refactoring and modernizing existing Android applications
 * Improving application performance and stability
-* Working with third-party SDKs and services
-* Preparing applications for **Google Play Store deployment**
+* Integrating third-party SDKs and services
+* Preparing applications for Google Play Store deployment
 * Collaborating with backend developers, designers, and product teams
-
-
-## 🤝 Let's Connect
-
-I'm open to **Android development, freelance projects, application modernization, API integration, and long-term maintenance opportunities**.
-
-* 💼 LinkedIn: [linkedin.com/in/kumarpawan93](https://www.linkedin.com/in/kumarpawan93)
-* 💻 GitHub: [github.com/kumarpawanonline](https://github.com/pawan4one)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🧩 Development Approach
+
+I believe good Android development is more than simply making an application work.
+
+My focus is:
+
+**Clean Code → Good Architecture → Responsive UI → Reliable APIs → Performance → Maintainability**
+
+I aim to build applications that are:
+
+* ✅ Easy to maintain
+* ✅ Scalable for future requirements
+* ✅ Responsive across Android devices
+* ✅ Reliable in production
+* ✅ Structured for long-term development
+* ✅ Easy for other developers to understand
+
+---
+
+## 📈 Currently Focused On
+
+* 🚀 Modern Android development
+* 🎨 Jetpack Compose
+* 🏗️ Clean and scalable architecture
+* ⚡ Kotlin Coroutines & Flow
+* 📡 REST APIs and real-time communication
+* 🔥 Firebase
+* 📱 Android application performance
+* 🧩 Application modernization
+* 🤖 Exploring AI-assisted development workflows
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **Android development opportunities, freelance projects, application modernization, API integration, and long-term Android application maintenance**.
+
+<p>
+  <a href="https://github.com/pawan4one">
+    <img src="https://img.shields.io/badge/GitHub-pawan4one-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kumarpawan93">
+    <img src="https://img.shields.io/badge/LinkedIn-kumarpawan93-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+💬 **Have an Android project in mind? Let's build it.**
