@@ -112,6 +112,31 @@ I develop Android applications for startups, businesses, and product teams — f
 
 ---
 
+## 💼 Professional Experience
+
+### 📱 Android Developer — 10+ Years
+
+**2016 – Present**
+
+Over 10 years of experience developing Android applications across different industries and business requirements.
+
+### 🔹 Core Responsibilities
+
+* Developing Android applications using **Java and Kotlin**
+* Designing responsive and reusable Android UI
+* Implementing **MVVM and maintainable application architecture**
+* Integrating REST APIs using **Retrofit / OkHttp**
+* Implementing authentication, OTP and session management
+* Integrating **Firebase and push notifications**
+* Working with local databases including **Room**
+* Debugging and resolving production issues
+* Refactoring and modernizing existing Android applications
+* Improving application performance and stability
+* Working with third-party SDKs and services
+* Preparing applications for **Google Play Store deployment**
+* Collaborating with backend developers, designers, and product teams
+
+
 ## 🤝 Let's Connect
 
 I'm open to **Android development, freelance projects, application modernization, API integration, and long-term maintenance opportunities**.
