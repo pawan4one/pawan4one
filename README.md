@@ -95,7 +95,67 @@ I develop Android applications for startups, businesses, and product teams — f
 * 📦 Preparing applications for production and Play Store release
 * 🔧 Long-term Android application maintenance
 
+---
 
+## 🚀 Featured Projects
+
+### 🚗 Draiv — Transportation & Super App
+
+A production Android application for **Draiv**, an online transportation and multi-service platform.
+
+The application provides transportation services along with additional services such as **food ordering, goods delivery, shopping, laundry, digital vouchers, and online donations**.
+
+**My Role:**
+📱 **Android Developer — Independently developed the Android application**
+
+**Key Areas:**
+
+* 🚗 Online transportation services
+* 🍔 Food ordering
+* 📦 Goods delivery
+* 🛍️ Shopping services
+* 🧺 Laundry services
+* 🎟️ Credit and game vouchers
+* 💰 Online donation services
+* 📱 Production Android application development
+
+**Technology & Expertise:**
+
+`Android` `Java` `Kotlin` `REST APIs` `Firebase` `Google Maps` `MVVM` `Android SDK`
+
+🔗 **Google Play:**
+[View Draiv on Google Play](https://play.google.com/store/apps/details?id=id.draiv.client)
+
+---
+
+### 🎓 Practice Dost — Government Exam Preparation
+
+A production Android application designed for **UP and central government competitive exam preparation**, providing previous year question papers, mock tests, subject-wise practice, and an exam-like testing experience.
+
+The application covers exams including **UP Police, UPSSSC PET, UPPCS, UP TET, SSC, RRB, CTET and other competitive examinations**.
+
+**My Role:**
+📱 **Android Developer — Independently developed the Android application**
+
+**Key Areas:**
+
+* 📚 Previous Year Question Papers (PYQs)
+* 📝 Mock tests
+* 🎯 Subject & topic-wise practice
+* ⏱️ Exam-like test interface
+* 📊 Test results and performance
+* 🎓 UP government exam preparation
+* 🇮🇳 Central government exam preparation
+* 🔔 Production app maintenance and improvements
+
+**Technology & Expertise:**
+
+`Android` `Java` `Kotlin` `REST APIs` `Firebase` `MVVM` `Android SDK`
+
+🔗 **Google Play:**
+[View Practice Dost on Google Play](https://play.google.com/store/apps/details?id=com.db.helpwisesolutions)
+
+---
 
 ## 👨‍💻 About Me
 
