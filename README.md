@@ -217,6 +217,15 @@ I aim to build applications that are:
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan4one&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Pawan Kumar's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan4one&layout=compact&hide_border=true&langs_count=8" height="170" alt="Pawan Kumar's Top Languages"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm open to **Android development opportunities, freelance projects, application modernization, API integration, and long-term Android application maintenance**.
